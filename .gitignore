@@ -1,0 +1,25 @@
+# Hugo static output directory
+public/
+
+# Hugo resource cache and build lock files
+resources/_gen/
+.hugo_build.lock
+hugo_stats.json
+
+# Operating System specific files
+.DS_Store
+*.swp
+Thumbs.db
+
+# Editor and IDE specific settings
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+.env.local
