@@ -1,4 +1,28 @@
-baseURL = 'https://example.org/'
+# 1. Basic Site Configuration
+baseURL = 'https://gyedongjeon.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Gyedong Jeon | Senior Backend Engineer'
 theme = "blowfish"
+
+# 2. Personalization and Branding
+[params]
+  description = "Senior Python/Django Developer with 10+ years of experience"
+  defaultAppearance = "dark"
+  showTOC = true
+
+# 3. Author Information
+[author]
+  name = "Gyedong Jeon"
+  image = "img/profile.jpg"
+  bio = "Senior Backend Engineer specializing in Python & Django." #
+
+  [[author.links]]
+    github = "https://github.com/gyedongjeon"
+  [[author.links]]
+    linkedin = "https://linkedin.com/in/gyedongjeon"
+
+# 4. Navigation Menu
+[[menu.main]]
+  name = "Resume"
+  url = "/resume"
+  weight = 10
