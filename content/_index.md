@@ -1,5 +1,6 @@
-+++
-date = '2025-12-28T07:53:18+09:00'
-draft = true
-title = ''
-+++
+---
+title: "Gyedong Jeon"
+description: "Senior Backend Engineer | Platform Team Lead | Python & Django Expert"
+cascade:
+  showDate: false
+---
