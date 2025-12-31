@@ -8,6 +8,7 @@ layout: "simple"
 **Senior Software Engineer**
 
 📧 gyedongjeon@gmail.com | 🔗 [linkedin.com/in/gyedongjeon](https://linkedin.com/in/gyedongjeon)
+
 🛂 Visa Status: **German Opportunity Card (Chancenkarte) Holder** (Valid from Jan 12, 2026)
 
 ---
