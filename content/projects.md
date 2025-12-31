@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 description: "A collection of personal projects exploring AI-native development, full-stack agility, and practical problem-solving."
-layout: "simple"
 showTableOfContents: true
 ---
 

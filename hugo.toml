@@ -11,7 +11,7 @@ theme = "blowfish"
   showTOC = true
 
 [params.homepage]
-  layout = "simple"
+  layout = "page"
   showRecent = false
 
 # 3. Author Information

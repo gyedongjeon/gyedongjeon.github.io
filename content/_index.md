@@ -1,7 +1,5 @@
 ---
 title: "Gyedong Jeon"
-type: "home"
-layout: "simple"
 ---
 
 # 👋 Welcome

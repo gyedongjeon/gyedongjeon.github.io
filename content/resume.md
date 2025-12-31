@@ -1,7 +1,6 @@
 ---
 title: "Resume"
 description: "Senior Software Engineer | 10+ Years of Experience | Python & Django Expert"
-layout: "simple"
 ---
 
 # Gyedong Jeon
