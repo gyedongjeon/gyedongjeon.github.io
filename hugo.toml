@@ -26,3 +26,8 @@ theme = "blowfish"
   name = "Resume"
   url = "/resume"
   weight = 10
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects"
+  weight = 20
