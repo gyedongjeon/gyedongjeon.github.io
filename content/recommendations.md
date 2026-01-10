@@ -86,7 +86,7 @@ All recommendations listed here are also available for verification on my **[Lin
 
 
 ## [Dongjin Woo](https://www.linkedin.com/in/jin0106)
-### Frontend Developer
+### Frontend Developer @ Neubility
 
 > I had the pleasure of working with Gyedong as a frontend developer.
 >
@@ -132,7 +132,7 @@ All recommendations listed here are also available for verification on my **[Lin
 
 
 ## [Kyungsu Cha](https://www.linkedin.com/in/kyungsu-jason-cha-4a3081175)
-### Technical Program Manager
+### Technical Program Manager @ Neubility
 
 > I am pleased to recommend Gyedong, whose exceptional technical expertise and proactive approach have significantly contributed to our projects. Gyedong has demonstrated outstanding problem-solving skills, initiative, and a deep understanding of complex system integrations.
 >
